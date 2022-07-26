@@ -8,7 +8,7 @@ Inventory app is an application about managing a products, Here we can create, e
 
 ## Database : **MongoDB**
 
-Note : Open source frontend [based on this](https://github.com/Turzoxpress/asset-tracker-react-frontend) will be customized.
+Note : Open source frontend [based on this](https://github.com/magung/inventory-app-with-react-js) will be customized.
 
 ### Register
 
