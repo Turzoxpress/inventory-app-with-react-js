@@ -4,7 +4,7 @@ Inventory app is an application about managing a products, Here we can create, e
 
 ## Frontend : **ReactJS, Bootstrap** ([Source Code](https://github.com/Turzoxpress/inventory-app-with-react-js))
 
-## Backend : **NodeJS, Express** (Source Code - Comming soon...)
+## Backend : **NodeJS, Express** (Source Code - Coming soon...)
 
 ## Database : **MongoDB**
 
